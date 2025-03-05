@@ -1,0 +1,139 @@
+
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+
+  /* nav styles */
+  nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 192px;
+  }
+
+  /* banner styles */
+  .banner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(198, 228, 214, 1);
+    padding: 96px 120px 96px 120px;
+    border-radius: 24px;
+    width: 1280px;
+    margin-top: 138px;
+
+  }
+  .banner-content{
+    max-width: 622px;
+  }
+  .banner-subtitle{
+    font-size: 24px;
+    font-weight: Medium;
+    color: rgba(14, 14, 14, 0.5)
+  }
+  .banner-title{
+    font-size: 56px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);
+  }
+  .banner-btn{
+    font-size: 18px;
+    font-weight: SemiBold;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(0, 106, 80, 1);
+    padding: 34px 17px;
+    border-radius: 17px;
+    border: none;
+  }
+  .banner-profile-pic{
+    width: 474px;
+  }
+
+  /* vision style */
+  .visions-container{
+    display: flex;
+    justify-content: space-around;
+    gap: 24px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+    
+  }
+  .vision1{
+    padding: 32px 32px;
+    background-color: rgba(84, 144, 245, 0.2);
+    border-radius: 16px;
+  }
+  .vision2{
+    padding: 32px 32px;
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 16px;
+  }
+  .vision3{
+    padding: 24px 24px;
+    background-color: rgba(247, 235, 207, 1);
+    border-radius: 16px;
+  }
+  .vision-title{
+    font-size: 20px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 0.8);  
+  }
+  .section-title{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgba(14, 14, 14, 1);   
+    
+  }
+  .section-description{
+    font-size: 16px;
+    font-weight: regular;
+    color: rgba(14, 14, 14, 0.7); 
+  }
+  .vision-btn1{
+    font-size: 16px;
+    font-weight: SemiBold;
+    color: rgba(255, 255, 255, 1);
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: rgba(84, 144, 245, 1);
+    border: none;
+  }
+  .vision-btn2{
+    font-size: 16px;
+    font-weight: SemiBold;
+    color: rgba(255, 255, 255, 1);
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: rgba(9, 161, 92, 1);
+    border: none;
+  }
+  .vision-btn3{
+    font-size: 16px;
+    font-weight: SemiBold;
+    color: rgba(255, 255, 255, 1);
+    padding: 20px 11px;
+    border-radius: 8px;
+    background-color: rgba(255, 194, 57, 1);
+    border: none;
+  }
+  .yunus{
+    padding: 24px 48px;
+    gap: 24px;
+    background-color: rgba(255, 255, 255, 1);
+    border-radius: 16px;
+  }
+
+  /* main styles */
+main{
+    max-width: 1536px;
+    margin: 0 auto;
+}
+main section{
+    margin-top: 130px;
+    margin-bottom: 130px;
+}
+  
