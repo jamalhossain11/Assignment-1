@@ -183,6 +183,25 @@
     text-align: center;
   }
 
+  /* newsletter style */
+  .newsletters{
+    background-color: rgba(198, 228, 214, 1);
+    border-radius: 24px;
+    padding: 100px 80px;
+    gap: 64px;
+  }
+  .newsletter-container{
+    margin: 80px 180px;
+  }
+  .subscribe-container{
+    display: flex;
+    justify-content: center;
+    
+    
+  }
+  
+
+
   /* main styles */
 main{
     max-width: 1280px;
